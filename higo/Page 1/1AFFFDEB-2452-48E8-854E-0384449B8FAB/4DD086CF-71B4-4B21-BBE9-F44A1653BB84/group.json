@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "4DD086CF-71B4-4B21-BBE9-F44A1653BB84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 46,
+    "width": 100,
+    "x": 0,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "64831345-2EE0-4F6B-AAFC-5D18E6C77CCB"
+    },
+    {
+      "class": "text",
+      "id": "5A75025E-C82F-46BD-8661-830FBB377E4E"
+    },
+    {
+      "class": "text",
+      "id": "8EF8D62D-3A57-4069-B4CE-F67D99B90CEC"
+    }
+  ],
+  "name": "Accent Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

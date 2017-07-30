@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "ACB3E84A-14AB-46E4-902F-8CF4BA606B81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 810,
+    "width": 392,
+    "x": 0,
+    "y": 42
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C83B930A-51CA-4AD5-AF09-8612D1C1CF71"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F921442-FEFE-4B8F-8702-6093E68209A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEBE0D3F-892B-4F56-AF71-3BAEA43C1EE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C91EBB5D-CEC5-4201-942A-3C8EB88700E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B33A216-E10A-409F-A28A-E8946ECC07F6"
+    }
+  ],
+  "name": "Iphone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
