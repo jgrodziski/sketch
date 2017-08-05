@@ -18,7 +18,7 @@
     "x": 125,
     "y": 37
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -55,18 +55,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "3F9E1489-02E0-4BD1-BD92-9086420E83DE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0C63B28F-6A34-4AB0-8A51-9EAD6CDE0FA9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "410494A7-EE15-4956-B996-E73440EB3271"
-    },
-    {
-      "class": "shapeGroup",
       "id": "E94E3077-2606-4742-B20F-C7E3995FD69B"
     },
     {
@@ -82,8 +70,8 @@
       "id": "0F795FE7-FB3D-467A-9015-0268C2594A2E"
     },
     {
-      "class": "text",
-      "id": "2F3BDFF3-AA5D-46DD-B869-ED630334F029"
+      "class": "symbolInstance",
+      "id": "C18963F4-5B27-4F2C-A265-4905CA2C82F3"
     },
     {
       "class": "shapeGroup",
@@ -106,28 +94,12 @@
       "id": "09E629A8-9DBB-4CCB-9A56-CB17B7950DD2"
     },
     {
-      "class": "text",
-      "id": "3F9D8682-DCF0-4093-9606-4F8616FFABD2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D527B7B2-430C-45C2-832A-0BAD6FC51F5D"
-    },
-    {
       "class": "shapeGroup",
       "id": "3FBD2915-E1E1-4715-BB7C-502B0BEFDADC"
     },
     {
       "class": "text",
       "id": "164EB958-2087-413B-A950-24C5648E47B4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CF12E76F-C354-47DA-BF74-9A8D6959DBBF"
-    },
-    {
-      "class": "text",
-      "id": "3F181D24-3725-4428-BA9A-2914C23CDF76"
     },
     {
       "class": "shapeGroup",
@@ -142,16 +114,8 @@
       "id": "F030A6E8-2D56-4242-8D34-B90F627804EE"
     },
     {
-      "class": "text",
-      "id": "C29BE96A-48C0-47CA-85D7-1426276F45CB"
-    },
-    {
       "class": "shapeGroup",
       "id": "1AA96C25-A0BB-435B-BFA7-746576C9704D"
-    },
-    {
-      "class": "text",
-      "id": "0C8E6BDA-9D85-4501-9A32-F2C4AE405CD8"
     },
     {
       "class": "shapeGroup",
@@ -259,7 +223,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F20EFA2C-8153-4141-9814-E786873B93A7"
+      "id": "D75B4936-021C-4255-B6C8-83754F7FED61"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C90D7F1-CC47-406E-9A66-F9E48377BE7F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF0F4EC5-F926-47E7-BF58-68FD177AA56A"
     }
   ],
   "name": "Profile Borrower Nicolas Briard",

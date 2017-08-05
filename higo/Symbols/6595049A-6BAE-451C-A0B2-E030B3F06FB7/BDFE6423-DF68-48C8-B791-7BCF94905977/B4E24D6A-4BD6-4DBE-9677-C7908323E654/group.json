@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "A86F090C-35A9-4690-9C1A-C9373EDAA073",
+  "do_objectID": "B4E24D6A-4BD6-4DBE-9677-C7908323E654",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,29 +13,29 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 149,
-    "x": 201,
-    "y": 295
+    "height": 16,
+    "width": 12,
+    "x": 323,
+    "y": 12
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "F61C99F4-5DCB-42EB-B65D-4934DAAF544E"
+      "id": "44705E42-9ADE-4CF2-A02A-B60861E4E5F0"
     },
     {
-      "class": "text",
-      "id": "8BCD392C-C728-40B6-8487-BF1917ABDA71"
+      "class": "shapeGroup",
+      "id": "5FFFC8EC-C28F-424F-BD1A-FBC9744375DD"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "edit-icon",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

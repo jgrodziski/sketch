@@ -1,0 +1,17 @@
+{
+  "keys": [
+    "en", "fr"
+  ],
+  "o_Edit": {
+    "en": "Edit",
+    "fr": "Éditer"
+  },
+  "o_Header title": {
+    "en": "Profile",
+    "fr": "Profil"
+  },
+  "o_Back": {
+    "en": "Your feed",
+    "fr": "Votre fil"
+  }
+}

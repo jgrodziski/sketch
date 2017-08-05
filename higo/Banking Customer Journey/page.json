@@ -63,18 +63,6 @@
     {
       "class": "group",
       "id": "A37ABC20-CD1C-4881-B4FC-C8E044E2F365"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "057CC5AF-490E-432C-A1DC-07759F885B56"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "124D352E-57AB-471B-8027-2049DC38FB6A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "84C16E83-D44A-4C0F-8371-805A6A87B2CE"
     }
   ],
   "name": "Banking Customer Journey",
@@ -93,6 +81,7 @@
     "_class": "rulerData",
     "base": -265,
     "guides": [
+      561
     ]
   }
 }

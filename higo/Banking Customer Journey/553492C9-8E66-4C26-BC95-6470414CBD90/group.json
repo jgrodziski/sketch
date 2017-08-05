@@ -18,12 +18,12 @@
     "x": 611,
     "y": 38
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -52,14 +52,6 @@
     {
       "class": "shapeGroup",
       "id": "C7D00199-8D1E-4BC1-8E87-CFB5FFC480D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8C5217CA-AA32-4A58-A3EA-F2465C1A5CE8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FCA4EFB6-D806-4875-B7ED-191AE53C1434"
     },
     {
       "class": "shapeGroup",
@@ -102,10 +94,6 @@
       "id": "05E31A7A-D948-4309-BE69-3FB991BFA0A9"
     },
     {
-      "class": "shapeGroup",
-      "id": "5502E9AE-F7DE-48CB-BD78-DD08F498F4C5"
-    },
-    {
       "class": "text",
       "id": "2617A4E5-9BF7-4E07-812E-9ED4AA456A29"
     },
@@ -128,10 +116,6 @@
     {
       "class": "shapeGroup",
       "id": "4613CF38-1DE7-40FB-8DF8-96CA5327E49E"
-    },
-    {
-      "class": "text",
-      "id": "9CFA3E1E-B41A-4DA8-A2B8-F549FF1C9C29"
     },
     {
       "class": "shapeGroup",
@@ -239,7 +223,19 @@
     },
     {
       "class": "symbolInstance",
-      "id": "E3C468A0-86FB-492F-9C35-1CC431E71BDD"
+      "id": "124D352E-57AB-471B-8027-2049DC38FB6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F59ED1A-0B8B-4C2B-8C7E-2997CE0A37CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39197AA4-D324-4277-B5BA-32438C2C8707"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05312D50-AB67-4841-90E6-783348DB570F"
     }
   ],
   "name": "Profile Broker Clémence Gaudet",

@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "A86F090C-35A9-4690-9C1A-C9373EDAA073",
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6DF4EEF1-5879-41E4-97F1-5003E47609F5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,35 +14,48 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 35,
-    "width": 149,
-    "x": 201,
-    "y": 295
+    "height": 40,
+    "width": 351,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F61C99F4-5DCB-42EB-B65D-4934DAAF544E"
-    },
-    {
-      "class": "text",
-      "id": "8BCD392C-C728-40B6-8487-BF1917ABDA71"
+      "class": "rectangle",
+      "id": "6B9521E7-F3C6-49E7-A2AA-F1AEA69DF380"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "header-container",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -49,12 +63,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 1,
@@ -69,5 +83,6 @@
       "kModelPropertiesKey": {
       }
     }
-  }
+  },
+  "windingRule": 1
 }
