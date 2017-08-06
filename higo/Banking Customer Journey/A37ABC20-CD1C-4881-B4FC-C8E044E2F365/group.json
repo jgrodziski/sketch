@@ -47,10 +47,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "66B6ACDA-E9AA-4CB1-BC5A-433B7288AA0D"
-    },
-    {
-      "class": "shapeGroup",
       "id": "1DA1D9BB-2211-45F9-B7D9-B6C39BE644C4"
     },
     {
@@ -72,10 +68,6 @@
     {
       "class": "shapeGroup",
       "id": "0D572832-6FCE-4FE8-824C-4766B96D6A7B"
-    },
-    {
-      "class": "text",
-      "id": "024F33A9-3B4C-44C7-9A7D-EF80FCF2FE1E"
     },
     {
       "class": "shapeGroup",
@@ -222,24 +214,8 @@
       "id": "A86F090C-35A9-4690-9C1A-C9373EDAA073"
     },
     {
-      "class": "group",
-      "id": "BFC9711A-A92C-4FCE-A672-E6CCFD40BA4B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A127A9F0-FB36-4D92-9E81-E70AB2CF2DA8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BEC8BD42-02E7-4348-8364-8B2B70590B45"
-    },
-    {
-      "class": "text",
-      "id": "2ECA44B7-3EEA-4F43-88D1-10D4A043DB07"
-    },
-    {
-      "class": "text",
-      "id": "8841E1A6-E0B9-452B-BB9C-92FD46FA9020"
+      "class": "symbolInstance",
+      "id": "04BB73D8-A5AF-4B8F-BADD-E11169CD962D"
     },
     {
       "class": "symbolInstance",
@@ -256,6 +232,18 @@
     {
       "class": "symbolInstance",
       "id": "C7799BBA-BA57-4B55-B1B1-B27E737C47AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D31713AC-71C8-4911-AD6F-0ED54DB86742"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D46F680-096B-454D-BD85-37933899FEC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAC957B6-F64A-49EF-9471-E99D1EF3FC83"
     }
   ],
   "name": "Profile Bank Advisor Thierry Ambrosio",

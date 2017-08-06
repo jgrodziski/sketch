@@ -26,7 +26,7 @@
     "x": 182.9634,
     "y": 668.6777
   },
-  "glyphBounds": "{{0, 0}, {66, 20}}",
+  "glyphBounds": "{{0, 3}, {66, 17}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -73,5 +73,12 @@
       }
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
 }

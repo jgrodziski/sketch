@@ -47,14 +47,6 @@
     },
     {
       "class": "shapeGroup",
-      "id": "4E0EF8D7-B8B1-4C8C-8D1F-AB2E514FFAC5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1241FA76-5E10-4764-AD06-4C81FC4782CB"
-    },
-    {
-      "class": "shapeGroup",
       "id": "E94E3077-2606-4742-B20F-C7E3995FD69B"
     },
     {
@@ -232,6 +224,26 @@
     {
       "class": "symbolInstance",
       "id": "BF0F4EC5-F926-47E7-BF58-68FD177AA56A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD5E59B1-AE52-4E41-862D-F79234363B34"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "032F019A-0E6E-4C14-9D5A-97799C90C99B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "605DE284-E1C5-4016-A916-D329006B0751"
+    },
+    {
+      "class": "text",
+      "id": "58A68394-AB38-490A-81DD-89E999243DCF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB88FB7E-8CC8-4E22-A1BD-19A6BA4647DE"
     }
   ],
   "name": "Profile Borrower Nicolas Briard",
