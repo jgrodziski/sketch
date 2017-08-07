@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -60,6 +60,14 @@
     {
       "class": "symbolInstance",
       "id": "B2FA9FEC-19A2-4DF5-AADA-5BEF66C03DE7"
+    },
+    {
+      "class": "text",
+      "id": "DC599881-3E93-4398-AB15-5979BB7A2812"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0940250C-C4EA-4FA4-8C8D-F53B225FCAF9"
     }
   ],
   "name": "Messages feed 2",

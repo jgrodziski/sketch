@@ -123,6 +123,22 @@
     {
       "class": "symbolMaster",
       "id": "BC437525-00B3-46F9-A5F2-5A56FDFF9122"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "080C50BE-71E0-4B1D-92D9-9F98011445BB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A6CC0C38-0BFF-4C91-9555-B7F577D6760D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "72643368-81B1-4BCF-A60A-6272E172F74B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DE8F2245-96CA-4537-87DD-794C6BCA5CEB"
     }
   ],
   "name": "Symbols",
