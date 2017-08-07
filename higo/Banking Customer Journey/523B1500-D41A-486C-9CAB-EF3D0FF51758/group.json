@@ -18,12 +18,12 @@
     "x": 142,
     "y": 949
   },
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -52,6 +52,10 @@
     {
       "class": "symbolInstance",
       "id": "58B50752-A05A-427A-81E0-718D36030E1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81E4BD62-0E35-4C03-83C8-16337D3A7BF0"
     }
   ],
   "name": "Messages feed 1",

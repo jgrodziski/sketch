@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 243,
+    "height": 282,
     "width": 269,
     "x": 31,
     "y": 363
@@ -31,7 +31,7 @@
   "name": "message-grey",
   "nameIsFixed": false,
   "overrides": {
-    "DDB9884F-04CC-41FA-97C8-6F5F443CE5B3": "Bonjour M. Briard,\n\nPour faire suite à votre demande de prêt, voici la liste des pièces à fournir :\n- 2 derniers avis d'imposition,\n- 3 derniers bulletins de salaire,\n- Justificatif d'identité,\n- Justificatif de domicile actuel,\n- Compromis de vente.\nMerci."
+    "DDB9884F-04CC-41FA-97C8-6F5F443CE5B3": "Bonjour M. Briard,\n\nPour faire suite à votre demande de prêt, voici la liste des pièces à fournir :\n- 2 derniers avis d'imposition,\n- 3 derniers bulletins de salaire,\n- Justificatif d'identité,\n- Justificatif de domicile actuel,\n- Compromis de vente.\nVous pouvez les scanner directement dans l'application.\nMerci."
   },
   "resizingConstraint": 63,
   "resizingType": 0,

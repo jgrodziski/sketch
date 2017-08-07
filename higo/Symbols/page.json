@@ -98,7 +98,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "23D54C81-96DB-4230-A0E1-C8FC702516FB"
+    },
+    {
+      "class": "symbolMaster",
       "id": "89A7F2FB-7BF5-448B-AD78-C5305467F024"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A2CBD9FF-AC9E-4248-9A52-5AC867AC8588"
     }
   ],
   "name": "Symbols",
