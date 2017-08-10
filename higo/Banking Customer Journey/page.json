@@ -54,6 +54,10 @@
     },
     {
       "class": "group",
+      "id": "221C3F06-0AB9-4EDF-B95B-6DE66A640048"
+    },
+    {
+      "class": "group",
       "id": "D3D43DF9-7670-46B7-B179-83F776DBA1A8"
     },
     {
@@ -75,6 +79,18 @@
     {
       "class": "group",
       "id": "BE84C446-25D4-4F5D-BC3B-013AED035CD7"
+    },
+    {
+      "class": "group",
+      "id": "6F0041CF-ADD6-412C-B633-E8DC76ED5B97"
+    },
+    {
+      "class": "group",
+      "id": "702ACDDE-69BE-41F4-B83D-8D662F7D5276"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD763210-A61D-4B68-ADA5-96273AC9F22C"
     }
   ],
   "name": "Banking Customer Journey",

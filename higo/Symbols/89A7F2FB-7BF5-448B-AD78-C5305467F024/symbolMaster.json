@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1811,
+  "changeIdentifier": 1825,
   "do_objectID": "89A7F2FB-7BF5-448B-AD78-C5305467F024",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,8 +52,8 @@
       "id": "C5F8AE8F-95F7-4F53-B636-515A9844FF93"
     }
   ],
-  "name": "Message Entry Field",
-  "nameIsFixed": false,
+  "name": "Message Entry Field/waiting",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 852,
     "width": 392,
-    "x": 1620,
+    "x": 1616,
     "y": 949
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",

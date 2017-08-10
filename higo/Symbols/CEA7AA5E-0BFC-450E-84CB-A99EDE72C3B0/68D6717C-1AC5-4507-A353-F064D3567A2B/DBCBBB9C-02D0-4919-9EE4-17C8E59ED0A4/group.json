@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "DBCBBB9C-02D0-4919-9EE4-17C8E59ED0A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 273,
+    "x": 62,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7D497E21-6041-4353-8FA8-B5AC30CC1AC3"
+    },
+    {
+      "class": "text",
+      "id": "84558ABB-D661-441E-AD24-8F589F1613A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "317C5BB0-3325-456C-812D-0A3C5BCD5A57"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5849B50-892F-43F9-876C-389700A19D89"
+    }
+  ],
+  "name": "Message Entry Field - Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

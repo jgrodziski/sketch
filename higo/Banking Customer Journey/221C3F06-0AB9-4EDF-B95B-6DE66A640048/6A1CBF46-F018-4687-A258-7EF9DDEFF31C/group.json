@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "6A1CBF46-F018-4687-A258-7EF9DDEFF31C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 809,
+    "width": 392,
+    "x": 24,
+    "y": 54
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2A6DEB1A-B112-42DC-B605-F258A8E5EE4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C7DDC95-092C-45AB-B9CF-B8BD4B74FE94"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE49907D-1444-46A7-8ED3-85264DBCB8D3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CAE2EC1E-7915-4658-A3AC-9BA652447EC5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1039E7D-2CC0-4FE3-A860-4C4E9CC22279"
+    }
+  ],
+  "name": "Profile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
