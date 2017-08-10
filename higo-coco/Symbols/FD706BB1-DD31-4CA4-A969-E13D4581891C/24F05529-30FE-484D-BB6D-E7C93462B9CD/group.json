@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "24F05529-30FE-484D-BB6D-E7C93462B9CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6,
+    "width": 9,
+    "x": 40,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06D26B0C-9413-4B0A-B3AB-AFDAB27602CA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "683F1E43-1AC3-4259-9921-E4123EC62541"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCFA1190-3A65-4C62-8B2B-CBD395FD47D7"
+    }
+  ],
+  "name": "Wifi",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

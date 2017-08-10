@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "59A963D9-0CFD-4C10-ADDE-F5FFE1451FE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 230,
+    "x": 15,
+    "y": 144
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Thierry Ambrosio msg header",
+  "nameIsFixed": false,
+  "overrides": {
+    "0C723AC0-E6C0-41A5-BA79-B31D13CBBE70": {
+      "symbolID": "DB2FEDB9-26A0-427B-A9FC-A904D5BF6925"
+    },
+    "673DFC77-321B-4125-9370-E9C9555FFE16": "Thierry Ambrosio"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "65A7CB91-816D-4B45-8746-FA07D12B569E",
+  "verticalSpacing": 0
+}

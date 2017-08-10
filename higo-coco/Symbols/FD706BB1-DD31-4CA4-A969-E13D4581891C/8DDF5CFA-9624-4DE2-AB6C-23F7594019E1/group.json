@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "8DDF5CFA-9624-4DE2-AB6C-23F7594019E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7,
+    "width": 34,
+    "x": 3,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6DDDEF05-8391-42D8-9A8D-76C21FF3C099"
+    },
+    {
+      "class": "group",
+      "id": "073715B7-8949-48E7-BA39-84C71880FDC2"
+    },
+    {
+      "class": "group",
+      "id": "0591E765-9E9E-400D-B0E4-9F988AEB396F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D276977F-C94B-4DCE-A1FA-6C97420DBDF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1AFD4CA1-2743-4FD2-BB48-DA67CEF1B639"
+    }
+  ],
+  "name": "Network",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

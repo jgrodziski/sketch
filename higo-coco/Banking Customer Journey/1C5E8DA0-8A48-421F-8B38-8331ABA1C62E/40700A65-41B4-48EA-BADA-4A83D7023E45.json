@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "40700A65-41B4-48EA-BADA-4A83D7023E45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 282,
+    "width": 269,
+    "x": 31,
+    "y": 180
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "message-grey",
+  "nameIsFixed": false,
+  "overrides": {
+    "DDB9884F-04CC-41FA-97C8-6F5F443CE5B3": "Bonjour M. Briard,\n\nPour faire suite à votre demande de prêt, voici la liste des pièces à fournir :\n- 2 derniers avis d'imposition,\n- 3 derniers bulletins de salaire,\n- Justificatif d'identité,\n- Justificatif de domicile actuel,\n- Compromis de vente.\nVous pouvez les scanner directement dans l'application.\nMerci."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2B6375BE-BA1E-4216-8377-F0A95FDB106C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

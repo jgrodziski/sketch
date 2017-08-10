@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "F86CAAF0-81C9-49AA-BD63-EE0CA097A8B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 121,
+    "width": 318,
+    "x": 0,
+    "y": 157
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E667AB1D-27D3-400E-BA3A-D76B5BF23A6E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD2C39D3-2661-4EEB-8CF1-5EDE372CC247"
+    },
+    {
+      "class": "group",
+      "id": "8707EEC3-F6B3-4EDF-893D-39F634212B92"
+    },
+    {
+      "class": "group",
+      "id": "37D08099-1A18-476C-8088-74FFD5D0DDBC"
+    },
+    {
+      "class": "text",
+      "id": "9570803D-9D41-4840-BA7A-A8849CEBA0EA"
+    },
+    {
+      "class": "text",
+      "id": "D01FF8D6-BB54-42A8-A607-65C4250AA72B"
+    }
+  ],
+  "name": "conversation-two",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
