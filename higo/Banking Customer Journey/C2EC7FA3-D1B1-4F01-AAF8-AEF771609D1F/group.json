@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "C2EC7FA3-D1B1-4F01-AAF8-AEF771609D1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 852,
+    "width": 392,
+    "x": -334,
+    "y": 943
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A17FB28E-F2C6-44A0-9E6A-03E051BD9EF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A46D3E0C-8244-4A50-A32B-D2CDC6D2569A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A81EB0EE-121C-4123-8866-57AE9F2A1D04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F139AC4-9A6B-486C-940F-E2DA5EA865EC"
+    }
+  ],
+  "name": "Ecrire un message",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

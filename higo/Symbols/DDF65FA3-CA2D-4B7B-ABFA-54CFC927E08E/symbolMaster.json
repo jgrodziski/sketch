@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 38,
+  "do_objectID": "DDF65FA3-CA2D-4B7B-ABFA-54CFC927E08E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11,
+    "width": 342,
+    "x": 5304,
+    "y": -198
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "84C42A76-3394-4CDB-87D1-FE0B83724573"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C8B08187-20E8-4CB2-84CF-323A013B48EE"
+    },
+    {
+      "class": "group",
+      "id": "2CD3CDAD-A6EC-486A-82A4-A3C3D25A4F2D"
+    },
+    {
+      "class": "group",
+      "id": "016A206D-8929-4DF8-93AA-9AD8ACFFA7AE"
+    },
+    {
+      "class": "group",
+      "id": "43F25F92-7263-4D19-9586-F88B463EE85F"
+    }
+  ],
+  "name": "iphone Header/white",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EF27DB50-9703-420C-AE87-7CC7C7AF0D47",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

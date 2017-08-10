@@ -4,6 +4,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -72,6 +81,10 @@
     {
       "class": "symbolInstance",
       "id": "6ADB7526-A766-41D3-895F-C72B969FF4A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD763210-A61D-4B68-ADA5-96273AC9F22C"
     }
   ],
   "name": "Messages feed 3 - set instruction ok",

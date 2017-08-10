@@ -21,12 +21,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29,
+    "height": 30,
     "width": 13,
-    "x": 8.69905263157894,
+    "x": 8.655750487329426,
     "y": 3.75
   },
-  "glyphBounds": "{{0, 0}, {12, 24}}",
+  "glyphBounds": "{{0, 10}, {13, 15}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,

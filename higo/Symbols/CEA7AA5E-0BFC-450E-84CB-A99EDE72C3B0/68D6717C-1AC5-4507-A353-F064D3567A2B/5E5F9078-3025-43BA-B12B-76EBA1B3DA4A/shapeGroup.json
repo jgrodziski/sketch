@@ -42,7 +42,7 @@
   ],
   "name": "Combined Shape",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 13,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -69,6 +69,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "windingRule": 1
 }
