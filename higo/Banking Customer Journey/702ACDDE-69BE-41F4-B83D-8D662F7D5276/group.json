@@ -24,15 +24,15 @@
     "constrainProportions": false,
     "height": 852,
     "width": 392,
-    "x": 2641,
-    "y": 957
+    "x": 2614,
+    "y": 1275
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -45,18 +45,6 @@
     {
       "class": "symbolInstance",
       "id": "E277FE40-08DE-4898-9DC3-3E8506AC27F2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A533A538-D65C-4543-87F2-685452D82D7C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "70D61C7F-926A-4AF7-9FC3-A956874CBB8C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A57D8D09-8B6E-4689-97B7-E7E013518DE2"
     },
     {
       "class": "symbolInstance",
@@ -85,6 +73,10 @@
     {
       "class": "symbolInstance",
       "id": "CD763210-A61D-4B68-ADA5-96273AC9F22C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29FE35B6-EF61-4279-B953-241883D82E2E"
     }
   ],
   "name": "Messages feed 3 - set instruction ok",
