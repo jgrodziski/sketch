@@ -15,7 +15,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 330,
+    "width": 340,
     "x": 0,
     "y": 0
   },
@@ -59,7 +59,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.9015511775362319
+      "opacity": 0.95
     },
     "endDecorationType": 0,
     "fills": [

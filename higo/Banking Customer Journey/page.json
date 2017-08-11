@@ -111,6 +111,10 @@
     {
       "class": "symbolInstance",
       "id": "9EE13514-E17D-4862-A90E-DB1ABEB00F58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F71C9893-623C-42CD-BFE0-AB368446C25A"
     }
   ],
   "name": "Banking Customer Journey",

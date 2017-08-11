@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 95,
-    "width": 330,
+    "height": 74,
+    "width": 340,
     "x": 0,
-    "y": 40
+    "y": 39
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -59,7 +59,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.9029098731884058
+      "opacity": 0.95
     },
     "endDecorationType": 0,
     "fills": [
