@@ -93,6 +93,7 @@
       "id": "C2EC7FA3-D1B1-4F01-AAF8-AEF771609D1F"
     },
     {
+<<<<<<< HEAD
       "class": "symbolInstance",
       "id": "E87C6956-7F24-4CE6-909A-DE307006C0F1"
     },
@@ -111,6 +112,10 @@
     {
       "class": "symbolInstance",
       "id": "1BF77693-CB16-4039-9816-9A1FA5DAA077"
+=======
+      "class": "group",
+      "id": "579B3DCC-96A6-41EC-ABEF-40A93719436C"
+>>>>>>> 0fbbf682a854b611b61f0c97d589f29bfa39e71a
     }
   ],
   "name": "Banking Customer Journey",

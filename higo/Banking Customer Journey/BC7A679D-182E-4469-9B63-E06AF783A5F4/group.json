@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -38,8 +38,17 @@
       "id": "49A08DDF-1F16-4FAC-84A8-C5D90FD3BAD7"
     },
     {
+<<<<<<< HEAD:higo/Banking Customer Journey/BC7A679D-182E-4469-9B63-E06AF783A5F4/group.json
       "class": "shapeGroup",
       "id": "982BE130-9E64-419A-A626-3344DD94F5CB"
+=======
+      "class": "symbolInstance",
+      "id": "1BF77693-CB16-4039-9816-9A1FA5DAA077"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F71C9893-623C-42CD-BFE0-AB368446C25A"
+>>>>>>> 0fbbf682a854b611b61f0c97d589f29bfa39e71a:higo/Banking Customer Journey/579B3DCC-96A6-41EC-ABEF-40A93719436C/group.json
     }
   ],
   "name": "iphone Header/white",

@@ -32,7 +32,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
+<<<<<<< HEAD
   "layerListExpandedType": 2,
+=======
+  "layerListExpandedType": 0,
+>>>>>>> 0fbbf682a854b611b61f0c97d589f29bfa39e71a
   "layers": [
     {
       "class": "symbolInstance",

@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -97,6 +97,10 @@
     {
       "class": "symbolInstance",
       "id": "AF148E1E-A7A8-4A55-AA9E-74D4A97E842B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79DF020D-D290-4ABE-948A-259CF14C5605"
     }
   ],
   "name": "Suivi",
