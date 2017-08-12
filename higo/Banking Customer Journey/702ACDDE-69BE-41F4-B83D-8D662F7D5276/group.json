@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -79,7 +79,7 @@
       "id": "29FE35B6-EF61-4279-B953-241883D82E2E"
     }
   ],
-  "name": "Messages feed 3 - set instruction ok",
+  "name": "Messages feed 3 - set instruction ok done",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -69,6 +69,10 @@
     {
       "class": "symbolInstance",
       "id": "6BBA4F47-BA3F-4C9F-A783-3138BF9A015B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3112CE4D-86FB-4285-A206-7F90D8DD19D0"
     }
   ],
   "name": "Messages feed 3 - set instruction ok",

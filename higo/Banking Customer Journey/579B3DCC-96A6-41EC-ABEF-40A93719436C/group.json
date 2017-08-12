@@ -32,7 +32,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -49,6 +49,10 @@
     {
       "class": "symbolInstance",
       "id": "1BF77693-CB16-4039-9816-9A1FA5DAA077"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F71C9893-623C-42CD-BFE0-AB368446C25A"
     }
   ],
   "name": "Lock screen/notification",
