@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8A0241F6-EBFF-4794-8B83-AE32CFB02314",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 375,
+    "x": 0,
+    "y": 76
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "user-profile",
+  "nameIsFixed": false,
+  "overrides": {
+    "C5A5CFA5-F67E-4E84-8047-7FA61477BFC7": {
+      "symbolID": "DF46DB84-6F52-466B-8EBA-313E6B9F2846"
+    },
+    "C8D939A8-FCDA-459F-8398-4B8B1C48FDF8": {
+      "1F704199-E0D8-4ECA-B794-AFE1DFF2169A": "Bank Advisor",
+      "9639D3D8-ECAF-467F-9EF3-222CC6B9F4F6": "Borrower",
+      "C92FC6D9-6B83-4EC0-8686-96A253D7A0BD": "Nicolas Briard",
+      "F6598240-34B2-46AC-A044-AB880AA7CE66": " CADS",
+      "F943B32B-0F35-409D-8615-63FC0BE696D2": "Nicolas Briard",
+      "symbolID": "F66F6F00-6D75-419C-9C9B-D6443B9DBBF2"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "673E1534-E3CA-4EDA-A4AE-DADFDB3E9FC2",
+  "verticalSpacing": 0
+}

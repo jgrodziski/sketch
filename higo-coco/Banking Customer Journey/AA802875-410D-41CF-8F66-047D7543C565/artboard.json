@@ -80,9 +80,13 @@
     {
       "class": "symbolInstance",
       "id": "59A963D9-0CFD-4C10-ADDE-F5FFE1451FE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A291373D-00BC-43FD-A5BC-93181F90DAF6"
     }
   ],
-  "name": "messages",
+  "name": "messages-2",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

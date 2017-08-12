@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 862,
     "width": 441,
-    "x": 98,
-    "y": 355
+    "x": 125,
+    "y": 37
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
@@ -237,10 +237,6 @@
     {
       "class": "symbolInstance",
       "id": "DD5E59B1-AE52-4E41-862D-F79234363B34"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AA6E6BE5-5E26-4929-9845-F9A4834DDF3F"
     },
     {
       "class": "symbolInstance",

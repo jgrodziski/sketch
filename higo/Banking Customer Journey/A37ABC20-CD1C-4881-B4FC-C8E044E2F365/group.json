@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 863,
     "width": 441,
-    "x": 1070,
-    "y": 352
+    "x": 1097,
+    "y": 34
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
@@ -253,10 +253,6 @@
     {
       "class": "symbolInstance",
       "id": "FAC957B6-F64A-49EF-9471-E99D1EF3FC83"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FFFADB6E-3C87-483D-9ED5-A9A3758D2727"
     }
   ],
   "name": "Profile Bank Advisor Thierry Ambrosio",

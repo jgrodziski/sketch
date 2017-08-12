@@ -24,8 +24,8 @@
     "constrainProportions": false,
     "height": 852,
     "width": 392,
-    "x": 1099,
-    "y": 1272
+    "x": 1126,
+    "y": 954
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
@@ -49,6 +49,18 @@
     {
       "class": "symbolInstance",
       "id": "48C1BCDC-360E-44AE-8174-A9BB0CF2695D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6778AA8-2A7B-4A87-9841-D395AE3EAC33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33008276-083B-495B-A3FA-C34F4C910B24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29D33066-DCEE-419A-B87F-F83C49BCB1BD"
     },
     {
       "class": "symbolInstance",
