@@ -1,7 +1,6 @@
 {
-  "_class": "shapeGroup",
-  "clippingMaskMode": 0,
-  "do_objectID": "6EF0E47B-01D9-43BD-B708-6D2137F79062",
+  "_class": "group",
+  "do_objectID": "E2714BF3-4776-41E2-803F-4062008B2687",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,25 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0.5,
-    "width": 365.4512001463045,
-    "x": 9,
-    "y": 587
+    "height": 24,
+    "width": 105,
+    "x": 67,
+    "y": 562
   },
   "hasClickThrough": false,
-  "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "FA5004E5-0C5A-43F8-9BEA-B97ECBB9649E"
+      "class": "symbolInstance",
+      "id": "A771F54E-591E-4096-9B45-919111244DF3"
     }
   ],
-  "name": "Shape Copy 5",
+  "name": "State Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -40,22 +38,6 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.7891156462585034,
-          "green": 0.7655261946693066,
-          "red": 0.7550059480863053
-        },
-        "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
-        "thickness": 0.5
-      }
-    ],
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
@@ -65,6 +47,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "windingRule": 1
+  }
 }

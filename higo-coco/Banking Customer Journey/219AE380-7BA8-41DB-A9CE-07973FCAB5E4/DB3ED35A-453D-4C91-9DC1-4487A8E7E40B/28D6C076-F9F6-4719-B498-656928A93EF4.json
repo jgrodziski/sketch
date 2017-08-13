@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 61.00081613113985,
-    "width": 375.0000903066677,
+    "height": 82.00109709431901,
+    "width": 375,
     "x": 0,
-    "y": -7.105427357601005e-15
+    "y": 0
   },
   "hasConvertedToNewRoundCorners": true,
   "isFlippedHorizontal": false,

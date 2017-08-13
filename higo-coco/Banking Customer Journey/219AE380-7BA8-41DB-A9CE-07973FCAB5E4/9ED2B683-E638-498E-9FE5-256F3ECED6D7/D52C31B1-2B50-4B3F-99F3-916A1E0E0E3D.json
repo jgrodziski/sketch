@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "DC0DF85A-473D-48E7-B249-0D51675A2DEE",
+  "do_objectID": "D52C31B1-2B50-4B3F-99F3-916A1E0E0E3D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 137,
-    "x": 9,
-    "y": 109
+    "width": 104.5,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,15 +28,13 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Tag Copy 3",
+  "name": "state-past-style",
   "nameIsFixed": false,
   "overrides": {
-    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "Dossiers de prêt",
-    "7BB10850-6BEA-4198-87D8-5BAAD73AD269": {
-      "symbolID": "C33963C3-E6CC-45DA-9C9A-418894FC8F40"
-    }
+    "AF95CBC9-819F-4971-81E8-42B1DBB36A64": "Instruction",
+    "D0D7E8D3-0814-47D0-8086-6E0705235FB2": "Instruction"
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 23,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -46,6 +44,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "BB47BDC6-1508-4364-8CDA-05A990B2351F",
+  "symbolID": "C995213A-FC83-4A0C-B64F-42E767E67899",
   "verticalSpacing": 0
 }
