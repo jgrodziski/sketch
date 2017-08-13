@@ -115,10 +115,6 @@
     },
     {
       "class": "text",
-      "id": "0ED25AFF-B4B4-47D3-8E71-6F4856E1C2B2"
-    },
-    {
-      "class": "text",
       "id": "C19A577D-47F0-41B7-9AFE-8C5E2DDC5298"
     },
     {
@@ -128,6 +124,10 @@
     {
       "class": "shapeGroup",
       "id": "28812E2E-6CB3-4341-8729-5F1BFC57AE0B"
+    },
+    {
+      "class": "text",
+      "id": "A075A72C-F181-4705-8FED-7FFBC963453A"
     }
   ],
   "name": "state-changed",
