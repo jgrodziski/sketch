@@ -93,29 +93,8 @@
       "id": "C2EC7FA3-D1B1-4F01-AAF8-AEF771609D1F"
     },
     {
-<<<<<<< HEAD
-      "class": "symbolInstance",
-      "id": "E87C6956-7F24-4CE6-909A-DE307006C0F1"
-    },
-    {
-      "class": "group",
-      "id": "F146ADE7-25D8-4675-9417-A99ACFA8118E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2E2D6DD9-7D91-4C60-B2E9-5AA4F1E604D6"
-    },
-    {
-      "class": "group",
-      "id": "BC7A679D-182E-4469-9B63-E06AF783A5F4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1BF77693-CB16-4039-9816-9A1FA5DAA077"
-=======
       "class": "group",
       "id": "579B3DCC-96A6-41EC-ABEF-40A93719436C"
->>>>>>> 0fbbf682a854b611b61f0c97d589f29bfa39e71a
     }
   ],
   "name": "Banking Customer Journey",

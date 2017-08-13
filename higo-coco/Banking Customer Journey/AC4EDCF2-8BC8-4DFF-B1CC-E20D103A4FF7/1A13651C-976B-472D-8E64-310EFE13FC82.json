@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 176,
+    "width": 179,
     "x": 9,
     "y": 387
   },
@@ -31,7 +31,7 @@
   "name": "Tag Copy 11",
   "nameIsFixed": false,
   "overrides": {
-    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "Demande de chequié",
+    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "Demande de chéquier",
     "7BB10850-6BEA-4198-87D8-5BAAD73AD269": {
       "symbolID": "C33963C3-E6CC-45DA-9C9A-418894FC8F40"
     }
@@ -47,5 +47,11 @@
     "startDecorationType": 0
   },
   "symbolID": "BB47BDC6-1508-4364-8CDA-05A990B2351F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }
