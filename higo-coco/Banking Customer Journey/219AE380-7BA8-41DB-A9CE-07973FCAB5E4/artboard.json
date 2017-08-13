@@ -126,8 +126,8 @@
       "id": "B25F0498-79F7-4738-8CBA-14B95C41CC10"
     },
     {
-      "class": "shapeGroup",
-      "id": "28812E2E-6CB3-4341-8729-5F1BFC57AE0B"
+      "class": "symbolInstance",
+      "id": "3A8E65E5-B680-4478-AB5A-70C76C072EAA"
     }
   ],
   "name": "state-changed",
