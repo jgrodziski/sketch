@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1721,
+    "x": 1714,
     "y": 1028
   },
   "hasBackgroundColor": false,
@@ -63,10 +63,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "50442ECB-CC37-4CA5-B5FF-AC0F212CAE91"
-    },
-    {
-      "class": "symbolInstance",
       "id": "293EB241-9F44-4B96-9A89-BEF738BB3818"
     },
     {
@@ -84,6 +80,10 @@
     {
       "class": "symbolInstance",
       "id": "A291373D-00BC-43FD-A5BC-93181F90DAF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C35BD115-F13A-47DE-BA2A-D1563FDB9BEF"
     }
   ],
   "name": "messages-2",

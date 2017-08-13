@@ -33,48 +33,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "E623A45F-9349-4158-8009-2D97FF8EF494"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD7CDC54-4CFF-4FF5-9784-38BB89021FB0"
-    },
-    {
-      "class": "group",
-      "id": "553492C9-8E66-4C26-BC95-6470414CBD90"
-    },
-    {
-      "class": "group",
-      "id": "5C1C3963-4631-41F3-8636-8A7A36B04E06"
-    },
-    {
-      "class": "group",
-      "id": "A37ABC20-CD1C-4881-B4FC-C8E044E2F365"
-    },
-    {
-      "class": "group",
-      "id": "D3D43DF9-7670-46B7-B179-83F776DBA1A8"
-    },
-    {
-      "class": "group",
-      "id": "1EE4A463-22BB-47E0-A257-189980D0FC7B"
-    },
-    {
-      "class": "group",
-      "id": "523B1500-D41A-486C-9CAB-EF3D0FF51758"
-    },
-    {
-      "class": "group",
-      "id": "205F7015-FFFC-4D9D-9135-65EDE324D617"
-    },
-    {
-      "class": "group",
-      "id": "1C5E8DA0-8A48-421F-8B38-8331ABA1C62E"
+      "class": "artboard",
+      "id": "B4835DF0-D26F-4C5D-99D4-611385EE27C5"
     },
     {
       "class": "artboard",
-      "id": "B4835DF0-D26F-4C5D-99D4-611385EE27C5"
+      "id": "31991961-8093-468D-92B8-56D6B3613DF7"
     },
     {
       "class": "artboard",
@@ -87,6 +51,14 @@
     {
       "class": "artboard",
       "id": "674FB382-3EDF-488C-909E-4CBBD234F771"
+    },
+    {
+      "class": "artboard",
+      "id": "E74D6DBE-3964-4EDC-A18B-66100295DF3B"
+    },
+    {
+      "class": "artboard",
+      "id": "219AE380-7BA8-41DB-A9CE-07973FCAB5E4"
     },
     {
       "class": "artboard",
@@ -107,6 +79,14 @@
     {
       "class": "artboard",
       "id": "AA1479B1-E637-42B8-835E-FE9C83A531F2"
+    },
+    {
+      "class": "artboard",
+      "id": "AC4EDCF2-8BC8-4DFF-B1CC-E20D103A4FF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2458264C-650D-4FB7-8899-FF8BC6AB4BCE"
     }
   ],
   "name": "Banking Customer Journey",
@@ -125,6 +105,7 @@
     "_class": "rulerData",
     "base": -265,
     "guides": [
+      561,
       561
     ]
   }

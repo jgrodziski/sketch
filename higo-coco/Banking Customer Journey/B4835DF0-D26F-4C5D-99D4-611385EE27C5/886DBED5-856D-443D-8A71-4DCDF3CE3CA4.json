@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "State Copy",
@@ -37,7 +37,8 @@
     "879052A3-7596-45AF-B587-42DA4D2BF3ED": {
       "AF95CBC9-819F-4971-81E8-42B1DBB36A64": "Instruction",
       "symbolID": "A73179E4-C9B2-417D-8412-AADA764B40E1"
-    }
+    },
+    "B5E0EA91-DC31-4A9B-8DF7-F7E1BD5D3764": "05/08/2017 15:23"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

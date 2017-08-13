@@ -1,0 +1,112 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "31991961-8093-468D-92B8-56D6B3613DF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 3566,
+    "y": 1028
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1FBD34F7-AC54-4344-B6C0-AFF8F1EB9F59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8C8B5820-F18C-442A-9F2A-502E4490A675"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43EAFA86-45E5-452E-B7B6-038445EA5A43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B73D1BC4-6410-48F8-91D4-92E92CEB1D03"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC271847-3F6C-4C72-880E-9BA4070B5E54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "510F74D9-2BF5-4AC8-BDFF-F673CAB66E01"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA2B3EE5-0440-4C76-B3FC-8317611F33DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E601572D-5901-4111-8C96-EA0BCF10E90F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6213D232-13B4-4BC3-A207-8B5C9F4A7DCD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFB4C84F-1ED1-4E5B-B695-5626736990BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F881181-9053-4AF7-9843-C7A13F6004AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "143F9AFF-8A10-4CC4-AE7F-2E18D8A01476"
+    }
+  ],
+  "name": "suivi copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6213D232-13B4-4BC3-A207-8B5C9F4A7DCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 335,
+    "x": 9,
+    "y": 334
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "State Copy 4",
+  "nameIsFixed": false,
+  "overrides": {
+    "4289209C-C343-457B-95B9-52BF2F1449E9": {
+      "symbolID": "AE3A78D9-534A-480E-93DF-AC321F60BA53"
+    },
+    "879052A3-7596-45AF-B587-42DA4D2BF3ED": {
+      "92DF267B-D946-4C01-B4C9-784E451D3602": "Mise en place de déblocage",
+      "AF95CBC9-819F-4971-81E8-42B1DBB36A64": "Instruction",
+      "symbolID": "036E3584-41EC-4671-BED2-451CEF7DD3A7"
+    },
+    "B5E0EA91-DC31-4A9B-8DF7-F7E1BD5D3764": "…"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8248C8EB-4925-4553-BB14-B4360F40FCD8",
+  "verticalSpacing": 0
+}

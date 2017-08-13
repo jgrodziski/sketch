@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 153,
+    "width": 189,
     "x": 9,
     "y": 85
   },
@@ -31,7 +31,7 @@
   "name": "Tag Copy 3",
   "nameIsFixed": false,
   "overrides": {
-    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "dossier n°3335536",
+    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "dossier prêt n°3335536",
     "7BB10850-6BEA-4198-87D8-5BAAD73AD269": {
       "symbolID": "C33963C3-E6CC-45DA-9C9A-418894FC8F40"
     }

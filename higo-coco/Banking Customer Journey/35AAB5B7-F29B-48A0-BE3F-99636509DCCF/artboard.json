@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 771,
+    "x": 788,
     "y": 228
   },
   "hasBackgroundColor": false,
@@ -52,9 +52,57 @@
     {
       "class": "symbolInstance",
       "id": "EC1386D4-1458-463B-8A2D-A25FCB1DBABC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67562287-FDF1-4656-AE93-19E5210A1E1D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD081F22-042E-4DD6-B634-4CC049CC097E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C80F34C1-4F78-4467-84C7-F438265136EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31AE6836-6BE9-4E1D-9959-7358A64147A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CBBEC1D-728D-4316-84DC-D58D9B064FFE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDE0C6A3-8E7F-467B-96D7-88A8A72E752E"
+    },
+    {
+      "class": "text",
+      "id": "52F9F220-E2DB-41B6-8B19-2467A6879994"
+    },
+    {
+      "class": "text",
+      "id": "9C806258-8679-41D0-A4B3-070BA2C8F592"
+    },
+    {
+      "class": "text",
+      "id": "43169861-903F-434D-84A8-ED628F2EF40F"
+    },
+    {
+      "class": "text",
+      "id": "E0B7F04E-20B0-4BDB-882C-10901B6D1305"
+    },
+    {
+      "class": "text",
+      "id": "920F77C4-AE73-4E48-8A6F-DD637FF47D0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F8D91F8-8AA9-4261-A9FD-281B3881C403"
     }
   ],
-  "name": "profile-nicolas-briard",
+  "name": "profile-clemence-gaudet",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

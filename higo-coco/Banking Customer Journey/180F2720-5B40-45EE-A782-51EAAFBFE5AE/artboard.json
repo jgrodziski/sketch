@@ -52,9 +52,69 @@
     {
       "class": "symbolInstance",
       "id": "8A0241F6-EBFF-4794-8B83-AE32CFB02314"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7023FDE6-1A3D-45F0-8572-E6B5300BB5B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BCD2F35-0552-4215-982B-7F8F7A473FC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15D78C7A-9E12-4425-BB56-235752F65D20"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19339E22-6D50-4EF1-9124-81DF9430307E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8519D715-B0D5-4A2B-A1AC-831F56DE69A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7264F27-911F-4622-9F82-657079C5CC00"
+    },
+    {
+      "class": "text",
+      "id": "BC6487B7-CCBF-4598-8677-37392A74B05C"
+    },
+    {
+      "class": "text",
+      "id": "94850643-4DE8-4714-A706-3FB66E643F73"
+    },
+    {
+      "class": "text",
+      "id": "CF1760DC-2078-4C5E-BD25-8926234A9041"
+    },
+    {
+      "class": "text",
+      "id": "C4E71880-A4FF-4116-9573-2C4CEC3A1845"
+    },
+    {
+      "class": "text",
+      "id": "C0CE22AE-02CB-4F26-BCB7-839D4AC36CAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88F098DB-A527-4EDC-ABD5-105DD204C806"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5382478-F586-4840-8ED4-E06E0CB4CCE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90615E4F-99D4-424F-B21A-38CFA95A7DE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D414B83F-FB30-4D5E-BE9C-152DADAD099D"
     }
   ],
-  "name": "profile-nicolas-briard",
+  "name": "profile-thierry-ambrosio",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

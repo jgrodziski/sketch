@@ -30,6 +30,9 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "File upload msg",
   "nameIsFixed": false,
+  "overrides": {
+    "07251313-641D-46B0-9913-A10BDABBC961": "avis-imposition.pdf"
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

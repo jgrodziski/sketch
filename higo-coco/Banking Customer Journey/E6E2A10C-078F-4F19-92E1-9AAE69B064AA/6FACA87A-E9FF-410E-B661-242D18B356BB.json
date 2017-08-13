@@ -31,6 +31,7 @@
   "name": "header",
   "nameIsFixed": false,
   "overrides": {
+    "745EE267-09AA-47CD-9218-CBDA6304EAA4": "Suivi",
     "FAF1DF01-2372-49FC-84BC-431E0D53CC11": "Compose"
   },
   "resizingConstraint": 63,

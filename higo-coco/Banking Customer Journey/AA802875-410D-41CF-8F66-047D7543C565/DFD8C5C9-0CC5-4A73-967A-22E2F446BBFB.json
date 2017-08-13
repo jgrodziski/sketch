@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 199,
+    "width": 214,
     "x": 9,
     "y": 66
   },
@@ -31,7 +31,7 @@
   "name": "Tag",
   "nameIsFixed": false,
   "overrides": {
-    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "Crédit agricole de savoie",
+    "1BE7F0E5-39A6-4823-A0C0-19B0BF7E77DB": "Crédit Agricole des Savoie",
     "7BB10850-6BEA-4198-87D8-5BAAD73AD269": {
       "symbolID": "BBC91C6E-19FA-48EE-B2B9-C2D7B52F9465"
     }

@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 281,
+    "x": 325,
     "y": 228
   },
   "hasBackgroundColor": false,
@@ -52,6 +52,66 @@
     {
       "class": "symbolInstance",
       "id": "22D30742-EBA4-4E00-AFA9-E7EDEDDE5F0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "915CA684-D729-40B0-B944-C0E1101A4FDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC6A334F-4CAA-401B-B1B2-25E76D1EC3C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BF241FC-EE5F-4F61-A17F-854A8664A8B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "049161B8-CFF0-4E19-84DF-FCE717049D45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AFE42CB9-414B-4F0E-B601-42567230C0E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13CCFB34-38FA-4710-A390-5EA9AE7A2191"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3042B1A5-B0D7-470A-98D4-E0812968431F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "42AB4164-9D8E-4EF7-A8F4-D8868F670ACC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F2B165C-1EB0-46FC-9E5F-073DA0468A11"
+    },
+    {
+      "class": "text",
+      "id": "CBA84326-5AD7-4FC1-B3B0-A2A80F862563"
+    },
+    {
+      "class": "text",
+      "id": "1498C10F-C16C-47D7-9ABA-ACBD6899F2F4"
+    },
+    {
+      "class": "text",
+      "id": "80476D92-2523-42C6-A4C1-8AA3B70521A3"
+    },
+    {
+      "class": "text",
+      "id": "DB5DBC02-131B-4E9F-80AC-C33215C327EB"
+    },
+    {
+      "class": "text",
+      "id": "0916E7A2-FF80-47B3-8CB6-B018A8546AC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC56E023-3814-41DA-A201-7457224B1E95"
     }
   ],
   "name": "profile-nicolas-briard",

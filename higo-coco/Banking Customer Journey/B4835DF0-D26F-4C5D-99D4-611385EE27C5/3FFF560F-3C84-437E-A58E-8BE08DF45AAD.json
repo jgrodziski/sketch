@@ -25,7 +25,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "State",
@@ -33,6 +33,9 @@
   "overrides": {
     "4289209C-C343-457B-95B9-52BF2F1449E9": {
       "symbolID": "AE3A78D9-534A-480E-93DF-AC321F60BA53"
+    },
+    "879052A3-7596-45AF-B587-42DA4D2BF3ED": {
+      "D0D7E8D3-0814-47D0-8086-6E0705235FB2": "Découverte et proposition"
     }
   },
   "resizingConstraint": 63,

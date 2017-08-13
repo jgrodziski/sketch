@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "207B4FE9-8931-4559-94A7-9B3FA9BA1881",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 230,
+    "x": 15,
+    "y": 233
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Thierry Ambrosio msg header",
+  "nameIsFixed": false,
+  "overrides": {
+    "0C723AC0-E6C0-41A5-BA79-B31D13CBBE70": {
+      "symbolID": "840E7AB2-1735-4A21-8F63-C4081E52F156"
+    },
+    "1E46B4B3-7339-462D-8162-AA1804C52324": "18:52",
+    "673DFC77-321B-4125-9370-E9C9555FFE16": "Nicolas Briard",
+    "BBF9BC56-7406-4D6B-83B9-1DC092DA5B3D": {
+      "symbolID": "BBD8974B-6D4F-4B89-BBD2-DAEF64564848"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "65A7CB91-816D-4B45-8746-FA07D12B569E",
+  "verticalSpacing": 0
+}

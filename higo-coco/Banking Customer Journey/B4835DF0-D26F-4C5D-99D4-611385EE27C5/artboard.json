@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 2184,
+    "x": 2177,
     "y": 1028
   },
   "hasBackgroundColor": false,
@@ -59,10 +59,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "572A3C35-655B-4486-BAE9-86C7FF4B9E4B"
-    },
-    {
-      "class": "symbolInstance",
       "id": "CD0EDFE9-1ADE-4AA6-93FA-137B3B82D01A"
     },
     {
@@ -88,6 +84,10 @@
     {
       "class": "symbolInstance",
       "id": "49732C02-1F28-4BF2-A0F3-962A6C35509C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB0CD128-E0B2-4B97-BF19-07B61281CF2B"
     }
   ],
   "name": "suivi",

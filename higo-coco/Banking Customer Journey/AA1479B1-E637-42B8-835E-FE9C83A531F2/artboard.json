@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 1721,
+    "x": 1714,
     "y": 228
   },
   "hasBackgroundColor": false,
@@ -52,9 +52,69 @@
     {
       "class": "symbolInstance",
       "id": "160B3D8E-A0C6-4F5E-A762-5BD4C812497F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C7D1AD3-B4FB-4587-AF3C-6DC793570FE1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "08EBFFFC-3FF1-4248-9099-8D740BEFC497"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A668043D-5074-437A-A5CC-612BE98C52C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0504E45-8C01-43C6-9CD8-64A1498D15D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBF96BA9-BFBE-425E-8FA9-7D8DC1F18D04"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "139B60F5-AD35-4C94-ABC6-4ACF7C607077"
+    },
+    {
+      "class": "text",
+      "id": "C9D90FAF-9AF2-43FE-A7D2-26E7FE942B79"
+    },
+    {
+      "class": "text",
+      "id": "1696DDF4-C831-41CC-BA7F-A8B9A09F7071"
+    },
+    {
+      "class": "text",
+      "id": "392A63EB-56EA-4938-9A25-31211E87D738"
+    },
+    {
+      "class": "text",
+      "id": "02DD5951-73DD-49C4-8EF8-8EA4C9D2A08E"
+    },
+    {
+      "class": "text",
+      "id": "5CC8EA01-50F9-4E67-B679-4DCE84BBF73F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55F34CAB-BD61-47C7-B705-C6E761C0C9FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAB0AF1E-DE3E-4FB5-892E-9EDB45C9DE53"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "317A12DC-458A-4FA3-A98E-EDD08F2DE609"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B53215D4-60B6-43DF-9E45-F0491C6BD03A"
     }
   ],
-  "name": "profile-nicolas-briard",
+  "name": "profile-pascal-bayol",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

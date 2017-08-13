@@ -235,6 +235,10 @@
     {
       "class": "symbolMaster",
       "id": "13B06913-C519-49A7-A934-DDD05F37F7C6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C57DF3A8-AB8C-4EBE-BE86-B078ACEC3F5A"
     }
   ],
   "name": "Symbols",

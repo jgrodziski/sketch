@@ -26,7 +26,7 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Thierry Ambrosio msg header",
   "nameIsFixed": false,
@@ -34,7 +34,10 @@
     "0C723AC0-E6C0-41A5-BA79-B31D13CBBE70": {
       "symbolID": "DB2FEDB9-26A0-427B-A9FC-A904D5BF6925"
     },
-    "673DFC77-321B-4125-9370-E9C9555FFE16": "Thierry Ambrosio"
+    "673DFC77-321B-4125-9370-E9C9555FFE16": "Thierry Ambrosio",
+    "BBF9BC56-7406-4D6B-83B9-1DC092DA5B3D": {
+      "symbolID": "DF46DB84-6F52-466B-8EBA-313E6B9F2846"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
