@@ -144,6 +144,22 @@
     {
       "class": "text",
       "id": "17F59F21-B4F3-47C3-BC72-7A01170993DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF57EEA0-04C7-4D2E-A4FC-E2827877028F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE174476-0F8A-4E46-8FAF-4B2D3332E389"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "467679CB-2F24-41A5-A3DC-5C7E5DE1917A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF36F7F7-2F90-46CC-828C-6D220DF4F594"
     }
   ],
   "name": "feed copy",
